@@ -1,0 +1,9 @@
+Package: com.level3tjg.slimvolumehud
+Name: SlimVolumeHUD
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: level3tjg
+Author: level3tjg
+Section: Tweaks
